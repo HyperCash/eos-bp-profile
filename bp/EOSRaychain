@@ -1,0 +1,154 @@
+
+1.	Brief Introduction of Hong Kong Rylink Science and Technology 
+
+Founded in 2017, Hong Kong Rylink Science and Technology Co., Ltd. is a developing and applied company on blockchain underlying technology. We will ensure the security for industry development by developing cryptocurrencies application products. We aim to provide secure and reliable asset management and abundant blockchain application service for users all over the world.
+
+
+2.	Main Team Members
+
+Sweety
+
+Former host of Phoenix Travel Program, 4 years’ experience in foreign media, 1-year operating experience in knowledge-paid products, joined blockchain industry in 2017, be with considerable blockchain media and mainstream financial and economic media resources, EOS early investor and maniac, Rylink COO.
+
+
+
+Ruixi Wang
+
+Leader of HK Rylink, 6+ years’ experience in bloackchain, one of the pioneers in blockchain industry, expert in investment, founder of Bitmini, former CEO of Chengdu AsicMiner, he acquired 100% Pow8 in 2016, founder and former CEO of Batpool, he also has been interviewed by CCTV for few times.
+
+
+
+Luen Wang
+
+Co-founder of Batpool, researcher of blockchain and decentralized consensus mechanism. 10+ years’ experience in development, 5+ years’ experience in blockchain tech start-ups, specialize in decentralized system and streaming data system establishment.
+
+
+
+Zhenjing Li
+
+8+ years working experience in development, former tech director of ThinkerNote, experienced in Telecom Cloud system, 2 years establishing Internet financial projects, initiatively led the team to build a crowdsourcing service, good at developing decentralized system, started to research blockchain since 2017.
+
+
+
+Ya Guo
+
+12+ years developing experience, 4+ years leading enterprise financial service, 3+ years’ experience in start-up financial service, good at building decentralized system, streaming system and data analysis, researcher of decentralized consensus mechanism and algorithmic game theory.
+
+
+
+Zhichao Hu
+
+5+ years developing experience, main tech leader of icooo.com and pow8.com, highly-experienced developer of streaming system and decentralized system, joined blockchain industry since 2016.
+
+
+
+Chuang Gan
+
+Graduated from Walton School, Pennsylvania, 5+ years’ business management experience, joined HK Rylink as a foreign business specialist in 2017.
+
+
+3.	Social media accounts and public website
+
+Website: https://eosraychain.com/
+Facebook: https://www.facebook.com/EosRaychain
+Twitter: https://twitter.com/EosRaychain
+Telegram: https://t.me/EosRaychain
+Steemit: https://steemit.com/@eosraychain
+Testnet: http://bptn.eosraychain.com/v1/chain/get_info
+
+
+4.	Hardware Infrastructure
+
+Official block producer candidate:
+EOSRaychain
+
+ Location of company:
+Hong Kong
+
+Expected location of servers:
+Rylink is expecting to base servers in Hong Kong, Singapore, New York
+
+ Type of servers:
+We will use 24 Core, 96GB RAM, 100GB SSD and 10MB bandwidth for testnet. We will operate three servers with the best configuration both in AWS and Google Cloud and multiple Aliyun servers in Hong Kong zone for backup.
+
+Test node configuration:24 CPU, 96 GB RAM, 100GB SSD, 5MB bandwidth.
+
+Official node configuration: AWS and Aliyun servers
+
+Estimate of technical specifications and total expenditure for resources by June 3, 2018:
+We plan to deploy a master and at least two backup servers. Our hardware spec listed is dynamic scale change based on the community feedback
+
+Technical specifications:
+Master server: AWS Cloud: 32 CPU cores, 100GB RAM 100 GB SSD and 1G bandwidth.
+backup server: Aliyun Cloud: ecs.sn2ne.large, 32 CPU, 120GB RAM, 100 GB SSD, 500MB bandwidth.
+AWS Cloud: 32 CPU, 100GB RAM, 100 GB SSD, 500MB bandwidth
+Defense System: We have abundant experience and resources to protect us from DDoS/CC hacking. The master server can be automatically switched to backup server node by smart DNS and load balancing.
+
+Estimated scaling plan for hardware after June 3, 2018:
+We will add 4 servers to backup nodes and increase main node bandwidth to 2G.
+
+
+5.	The Reasons for Running
+
+We participated in the running for below two reasons: first, Rylink Science and Technology in consist of numerous early Bitcoin players. In the early period, EOS attracted our attention by its long-term technology value and we invested in it as a loyal believer and supporter emotionally. Second, we have been trying to be intensively involved in EOS ecosystem construction, support its prosperity with our technology and ecosystem harmony for the consistent growth of EOS main chain. 
+
+6.	Ecosystem Construction
+
+Hong Kong Rylink is dedicated to build and refine blockchain ecosystem and currently has invested Penguin Mainland, Hoo, Pow8 and BATPOOL.
+
+Pow8 is a cloud computing platform in blockchain industry and mainly provides miners sale, hashrate trusteeship, hashrate tent and hashrate transaction service for cryptocurrencies users.
+ 
+
+BATPOOL, one of the most stable Bitcoin mining pool in the world, is your best choice for mining Bitcoin and Litecoin. 
+ 
+
+Penguin Mainland is a Light App powered by blockchain and has 30W+ users in cryptocurrencies industry and the number is growing. Powerful DAPP Alliance will help the fulfillment of application projects after the EOS mainchain appears.
+
+ 
+ 
+ 
+
+Hoo is dedicated to creating a digital asset financial management platform for blockchain start-ups and companies, assisting building stock structure management and the Board of Directors and constructing a new online management method of equities, finance, organization and asset of partnership teams. Hoo will provide a series of underlying services for EOS ecosystem, such as EOS wallet, blockchain browser. It also supports vote function after EOS mainchain appears and each EOS holder has the right to vote in Hoo.
+ 
+ 
+ 
+
+
+
+7.	Community Benefit
+
+As a pioneer of blockchain 3.0, EOS is ahead of blockchain industry. Hong Kong Rylink will be with EOS from the beginning to the end. We will add our Rylink ecosystem value to the integrated value of EOS, upgrade this ecosystem and make EOS prosper continually and stably.
+
+Node Maintenance 
+Hong Kong Rylink will wholly provide secure service for EOS, factor powerful main node net and identify potential security holes. We will optimistically upgrade international net infrastructure and meet the demands of EOS community by adopting systemic and extensive solutions.
+
+Community Construction
+Rylink will optimistically boost the construction of both EOS online and offline communities, develop current community, propagate EOS idea and popularize EOS knowledge. We will provide free technology consultancy for those engineers who are dedicated to know EOS technology and nodes, also it helps other technological talents get involved in EOS ecosystem.
+
+Project Incubation
+Hong Kong Rylink will focus on incubating DAPP which based on EOS and strongly support the growing and increasing EOS ecosystem. We will aggregate blockchain industry channels, such as senior media and main financial and economic by propagating value content, developing technology seminar and hosting off-line Salon and summit forum. It provides incubation platform for innovators and developers and support the good operating of each DAPP project on EOS main chain.
+
+Ecosystem Encouragement
+Hong Kong Rylink will reward excellent individuals and groups every year and encourage more outstanding talents and technology groups to flood into the construction of EOS ecosystem.
+
+
+8.	Conclusion
+
+ As an early investor in EOS, Hong Kong Rylink is with EOS from the very beginning and will also witness the future of EOS. EOS is the most potential cryptocurrency. Hong Kong Rylink will hold it for a long term and spare no efforts to contribute to the extension of EOS. No matter we succeed or not, our persistence and determination to build EOS ecosystem will never vanish.
+
+9.  EOSRaychain – BP Roadmap
+
+
+Phase 1: EOS Ali Cloud Nodes Cluster
+Deploy several 32v CPU,128RAM and 500G SSD hardware high configuration ECS real example as nodes cluster. If a node is hacked or goes wrong, then backup node will immediately be helpful and is ready for automatic take-over. So, we can ensure all nodes work full day.
+
+Phase 2: Hoo wallet, which belongs to our partner Hong Kong Hoo Technology, will initiatively support EOS when its main chain is launched. It also provides services for cryptocurrencies adopters and company asset storage.
+
+Phase 3: We will launch EOS block explorer on July.
+We will be committed to refine EOS ecosystem, develop some EOS-related applications such as block explorer and provide some free technology services on explorer (address generation, transaction broadcast). It can attract more attention and result in more popularity.
+
+Phase 4: We will launce some applications about EOS and make more developers and cryptocurrencies adopters understand and participate in the development of EOS.
+
+
+10.  Position on Giving Dividends to Voters
+We will strongly support EOS ecosystem construction and help maintain a fair and safe environment for all EOS BPs. Any action which harms EOS ecosystem will be rejected. So, we hold this stance that we will never gave any dividends to voters.
